@@ -1,0 +1,17 @@
+{
+  "name": "para-casa",
+  "version": "1.0.0",
+  "description": "Exercício da semana11 aula Reprograma. Criação modelo MVC",
+  "main": "server.js",
+  "scripts": {
+  "start": "nodemon server.js"
+  },
+  "author": "Luciana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
